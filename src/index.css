@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "./theme.css";
+@import "../preview/preview.css";
+@source "../preview";
+
+/* Focus: a text field matches :focus-visible on a click too, so its ring also needs keyboard focus:
+   data-input="keyboard" on <html> (src/components/Focus/inputModality.ts). */
+@custom-variant keyboard (:where([data-input="keyboard"]) &);
