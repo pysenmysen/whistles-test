@@ -1,0 +1,8 @@
+<svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="sound-xs-stroke0_14859_60326" fill="white">
+<path d="M0 2.04191C0 1.93146 0.0895431 1.84375 0.2 1.84375H1.5L4 0V8L1.5 5.84375H0.2C0.0895431 5.84375 0 5.75491 0 5.64445C0 4.89795 0 2.71275 0 2.04191Z"/>
+</mask>
+<path d="M4 0V8L1.5 5.84375H0.2C0.0895431 5.84375 0 5.75491 0 5.64445C0 4.89795 0 2.71275 0 2.04191C0 1.93146 0.0895431 1.84375 0.2 1.84375H1.5L4 0Z" stroke-width="2" stroke="currentColor" mask="url(#sound-xs-stroke0_14859_60326)"/>
+<path d="M5.5 2.88V4.88" stroke="currentColor"/>
+<path d="M7.5 0.880005V6.88" stroke="currentColor"/>
+</svg>

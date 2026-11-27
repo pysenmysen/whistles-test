@@ -1,0 +1,7 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="search-md-stroke0_14594_117016" fill="white">
+<path d="M1 5C1 7.20914 2.79086 9 5 9C6.10648 9 7.10804 8.55073 7.83219 7.82466C8.55384 7.1011 9 6.10266 9 5C9 2.79086 7.20914 1 5 1C2.79086 1 1 2.79086 1 5Z"/>
+</mask>
+<path d="M5 9C2.79086 9 1 7.20914 1 5C1 2.79086 2.79086 1 5 1C7.20914 1 9 2.79086 9 5C9 6.10266 8.55384 7.1011 7.83219 7.82466C7.10804 8.55073 6.10648 9 5 9Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" mask="url(#search-md-stroke0_14594_117016)"/>
+<path d="M11 10.88L7.5 7.38" stroke="currentColor"/>
+</svg>

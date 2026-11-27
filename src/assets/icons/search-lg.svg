@@ -1,0 +1,7 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="search-lg-stroke0_11312_12906" fill="white">
+<path d="M1 6.38C1 9.41757 3.46243 11.88 6.5 11.88C8.02141 11.88 9.39855 11.2623 10.3943 10.2639C11.3865 9.26902 12 7.89616 12 6.38C12 3.34244 9.53757 0.880005 6.5 0.880005C3.46243 0.880005 1 3.34244 1 6.38Z"/>
+</mask>
+<path d="M6.5 11.88C3.46243 11.88 1 9.41757 1 6.38C1 3.34244 3.46243 0.880005 6.5 0.880005C9.53757 0.880005 12 3.34244 12 6.38C12 7.89616 11.3865 9.26902 10.3943 10.2639C9.39855 11.2623 8.02141 11.88 6.5 11.88Z" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" mask="url(#search-lg-stroke0_11312_12906)"/>
+<path d="M15 14.88L10 9.88" stroke="currentColor"/>
+</svg>
